@@ -1,3 +1,7 @@
+
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d0362470b1c402e0d74a7711736dc142982d590dff72ae43e5085c6765bb03dc/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6474666276766b79702f696d6167652f75706c6f61642f76313536363333313337372f6c61726176656c2d6c6f676f6c6f636b75702d636d796b2d7265642e737667"><img src="https://camo.githubusercontent.com/d0362470b1c402e0d74a7711736dc142982d590dff72ae43e5085c6765bb03dc/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6474666276766b79702f696d6167652f75706c6f61642f76313536363333313337372f6c61726176656c2d6c6f676f6c6f636b75702d636d796b2d7265642e737667" width="400" data-canonical-src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" style="max-width: 100%;"></a></p>
+
+
 # Cài đặt XAMPP
    - Cài đặt Xampp có phiên bản PHP phiên bản 7.
    - Link cài đặt XAMPP : https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.28/
