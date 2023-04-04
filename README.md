@@ -16,4 +16,7 @@
 # Truy cập vào trang quản lý Admin
    - Thêm /admin vào sau url
    - Tài khoản: dang48691216@gmail.com 
-   - Mật khẩu: dang4869  
+   - Mật khẩu: dang4869 
+# Thẻ ngân hàng test chức năng thanh toán online
+
+<table align="center" border="1" cellpadding="0" cellspacing="0" width="600"><tbody><tr><td>Ngân hàng</td><td>NCB</td></tr> <tr><td>Số thẻ</td><td>9704198526191432198</td></tr> <tr><td>Tên chủ thẻ</td><td>NGUYEN VAN A</td></tr> <tr><td>Ngày phát hành</td><td>07/15</td></tr> <tr><td>Mật khẩu OTP</td><td>123456</td></tr> </tbody></table>
